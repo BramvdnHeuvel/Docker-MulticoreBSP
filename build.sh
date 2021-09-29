@@ -1,0 +1,1 @@
+docker build -t noordstar/multicorebsp:latest ./multicorebsp-docker/
